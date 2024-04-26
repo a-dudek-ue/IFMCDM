@@ -10,4 +10,4 @@ Intuitionistic Fuzzy Multi-Criteria Decision Making Methods
 install.packages("IFMCDM")
 
 # Or the development version from GitHub
-devtools::install_github("username/IFMCDM")
+devtools::install_github("a-dudek-ue/IFMCDM")
