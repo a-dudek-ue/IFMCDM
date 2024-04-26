@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Andrzej Dudek, Bar³omiej Jefmañski, Marta Kusterka-Jefmañska, Ewa Roszkowska
+Copyright (c) 2024 Andrzej Dudek, Barlomiej Jefmanski, Marta Kusterka-Jefmanska, Ewa Roszkowska
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
